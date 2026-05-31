@@ -33,7 +33,7 @@ Python, Pandas, XGBoost, SHAP, Streamlit
 3. watch_hours
 
 ## Live Demo
-Coming soon
+https://tanishkanainiwal-ott-churn-predictor-ott-app-3kcpee.streamlit.app/
 
 ## Dataset
 Kaggle — Netflix Customer Churn by Abdul Wadood
